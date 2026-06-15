@@ -1,3 +1,3 @@
 # tpfinalca
-TP Final Computacion Aplicada
+TP Final Computacion Aplicada.
 Integrantes: GERÓNIMO OSCAR BELFIORI CARRASCO, AGUSTÍN OGURA, GERÓNIMO OSCAR BELFIORI CARRASCO, LUCAS TOMÁS MORALES FALCE, SEBASTIAN HERAS, Noah
